@@ -1,2 +1,2 @@
-Diccionario de Slang Panameño
-Actividad: Elaborar una aplicación de línea de comandos en Python que sirva cuyo propósito sea mantener un diccionario de palabras del slang panameño (xopa, mopri, otras). Las palabras y su significado deben ser almacenadas dentro de una base de datos SQLite. Las opciones dentro del programa deben incluir como mínimo: a) Agregar nueva palabra, c) Editar palabra existente, d) Eliminar palabra existente, e) Ver listado de palabras, f) Buscar significado de palabra, g) Salir
+Abre el terminal
+Ejecuta pip install sqlite3
